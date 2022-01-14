@@ -1,0 +1,37 @@
+Program Design
+
+
+Sam's Program - Looking people who are SICK
+UNION Design
+
+ArrayList ( the people related to each other)
+data[ID] -> ArrayList data
+search funtion -> look for people who are sick with specific ID
+
+-Save anything from the text in list
+
+-if it is not search data, Save it in the ArrayList.
+
+-Compare the next data, whether it is in all the previous Arraylist
+
+-If one of the is in the ArrayList, the Add everything into the ArrayList
+	PS. in the program, Sam assumed if there is one person is sick, the whole group will be
+	    assumed too
+
+-If Not, then create a new ArrayList
+
+-Make sure there won't be any same value in the Arraylist, and only one value can be avaiable in
+in the Arraylist
+
+-and So on
+
+-If see "search" for data, then start to search from the beginning. See whether there is any
+arraylist that contains
+
+-If there is one, just print out the whole arraylist
+
+-If not, just print the data that you are looking for
+
+-and so on
+
+-till to the end of file.
