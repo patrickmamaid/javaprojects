@@ -11,7 +11,10 @@ public class Main {
 
 
         int[] returned = twoSum(a, 19999);
-        System.out.println(returned[0] + ", " + returned[1]);
+        if(returned!=null){
+            System.out.println(returned[0] + ", " + returned[1]);
+        }
+
     }
 
 
