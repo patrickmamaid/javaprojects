@@ -5,6 +5,9 @@ Paper psudeocode
 ![Screen Shot 2022-02-18 at 1 52 15 PM](https://user-images.githubusercontent.com/6995511/154766531-8a1a5311-5768-47a5-87d6-b0ff98bda6c3.png)
 
 Used a hashmap
+
 My Idea was to use the delta between target and arrayvalue[position] for map.get(delta)
+
 If I cannot find it, add arrayvalue and position to the map
+
 return null if nothing is found
