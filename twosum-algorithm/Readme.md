@@ -11,3 +11,5 @@ My Idea was to use the delta between target and arrayvalue[position] for map.get
 If I cannot find it, add arrayvalue and position to the map
 
 return null if nothing is found
+
+Solution in https://github.com/patrickmamaid/javaprojects/blob/master/twosum-algorithm/src/com/company/Main.java
